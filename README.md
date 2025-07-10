@@ -1,4 +1,72 @@
-# Welcome to your Lovable project
+# 💱 Currency Exchange & Bill Calculator
+
+A sleek, frontend-only React application for quick currency conversions and bill splitting. Built with **TypeScript**, **Radix UI**, and **shadcn/ui**, this app provides a simple and secure way to manage basic currency calculations using static exchange rate data — no backend required.
+
+## ✨ Features
+
+- 💸 Currency exchange between predefined currencies
+- 🧾 Bill calculator with customizable split and tip
+- ⚛️ Built with React + TypeScript
+- 🎨 Modern UI using Radix UI and shadcn/ui components
+- 🔐 Secure: No secrets, no backend, minimal attack surface
+
+## 🛠 Tech Stack
+
+- **React**
+- **TypeScript**
+- **Vite**
+- **Radix UI**
+- **shadcn/ui**
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or higher recommended)
+- npm or yarn
+
+### Installation
+
+```
+# Clone the repo
+git clone https://github.com/your-username/currency-exchange-app.git
+cd currency-exchange-app
+```
+
+## Install dependencies
+npm install
+# or
+yarn install
+
+## Run the App
+```
+npm run dev
+# or
+yarn dev
+```
+
+- The app will be available at http://localhost:5173.
+
+## 🧪 Security
+- ✅ No sensitive data or API keys exposed
+- ✅ Uses static data (no external API calls)
+- ✅ Minimal use of dangerouslySetInnerHTML (reviewed)
+
+## 📦 Build
+To build for production:
+
+```
+npm run build
+# or
+yarn build
+```
+
+## 📄 License
+This project is licensed under the MIT License.
+
+- Feel free to contribute, open issues, or fork for your own use!
+
+# Lovable project info
 
 ## Project info
 
